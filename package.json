@@ -1,0 +1,22 @@
+{
+  "name": "ngx-bootstrap-typeahead-disabled-repro",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite"
+  },
+  "dependencies": {
+    "@angular/animations": "22.2.4",
+    "@angular/common": "22.2.4",
+    "@angular/compiler": "22.2.4",
+    "@angular/core": "22.2.4",
+    "@angular/forms": "22.2.4",
+    "@angular/platform-browser": "22.2.4",
+    "rxjs": "7.8.2",
+    "bootstrap": "5.3.8",
+    "ngx-bootstrap": "22.0.0"
+  },
+  "devDependencies": {
+    "vite": "8.3.6"
+  }
+}
